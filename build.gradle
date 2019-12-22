@@ -26,3 +26,4 @@ jar {
         attributes  "Main-Class": "jp.ac.uryukyu.ie.e195743.Main"
     }
 }
+
